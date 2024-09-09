@@ -1,0 +1,8 @@
+C:\Users\rice1\source\repos\TestingActions\bin\Debug\TestingActions.exe.config
+C:\Users\rice1\source\repos\TestingActions\bin\Debug\TestingActions.exe
+C:\Users\rice1\source\repos\TestingActions\bin\Debug\TestingActions.pdb
+C:\Users\rice1\source\repos\TestingActions\obj\Debug\TestingActions.csproj.AssemblyReference.cache
+C:\Users\rice1\source\repos\TestingActions\obj\Debug\TestingActions.csproj.SuggestedBindingRedirects.cache
+C:\Users\rice1\source\repos\TestingActions\obj\Debug\TestingActions.csproj.CoreCompileInputs.cache
+C:\Users\rice1\source\repos\TestingActions\obj\Debug\TestingActions.exe
+C:\Users\rice1\source\repos\TestingActions\obj\Debug\TestingActions.pdb

@@ -1,0 +1,8 @@
+C:\Users\rice1\OneDrive\Documents\GitHub\ActionedOne\TestingActions1\bin\Debug\TestingActions1.exe.config
+C:\Users\rice1\OneDrive\Documents\GitHub\ActionedOne\TestingActions1\bin\Debug\TestingActions1.exe
+C:\Users\rice1\OneDrive\Documents\GitHub\ActionedOne\TestingActions1\bin\Debug\TestingActions1.pdb
+C:\Users\rice1\OneDrive\Documents\GitHub\ActionedOne\TestingActions1\obj\Debug\TestingActions1.csproj.AssemblyReference.cache
+C:\Users\rice1\OneDrive\Documents\GitHub\ActionedOne\TestingActions1\obj\Debug\TestingActions1.csproj.SuggestedBindingRedirects.cache
+C:\Users\rice1\OneDrive\Documents\GitHub\ActionedOne\TestingActions1\obj\Debug\TestingActions1.csproj.CoreCompileInputs.cache
+C:\Users\rice1\OneDrive\Documents\GitHub\ActionedOne\TestingActions1\obj\Debug\TestingActions1.exe
+C:\Users\rice1\OneDrive\Documents\GitHub\ActionedOne\TestingActions1\obj\Debug\TestingActions1.pdb
